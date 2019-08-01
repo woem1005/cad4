@@ -1,0 +1,335 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Aug 01 10:24:53 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=9740 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\VSCODE_ORCAD\WORKSPACE\CAD4\allegro\CAD4.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/CAD4.brd
+\i (00:00:05) trapsize 1285
+\i (00:00:05) trapsize 1367
+\i (00:00:05) trapsize 1367
+\i (00:00:05) trapsize 1285
+\i (00:00:06) generaledit 
+\i (00:00:08) trapsize 478
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 73.959 0.742
+\i (00:00:09) trapsize 956
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 107.483 51.485
+\i (00:00:09) trapsize 1327
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 168.761 90.973
+\i (00:00:09) trapsize 1327
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 168.761 90.973
+\i (00:00:09) trapsize 1327
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 70.796 44.779
+\i (00:00:10) trapsize 664
+\i (00:00:10) trapsize 1784
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 113.539 21.526
+\i (00:00:12) trapsize 2569
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 98.500 -39.371
+\i (00:00:12) trapsize 2569
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 98.500 -39.371
+\i (00:00:12) trapsize 2569
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 98.500 -39.371
+\i (00:00:12) trapsize 2569
+\i (00:00:44) pick grid 58.420 53.121
+\t (00:00:44) last pick:  58.800 52.800
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 58.420 53.121
+\i (00:00:44) trapsize 1285
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 58.420 95.674
+\i (00:00:45) trapsize 642
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 58.420 95.674
+\i (00:00:45) trapsize 321
+\i (00:00:45) roam start
+\i (00:00:46) roam x -64
+\i (00:00:46) roam y 48
+\i (00:00:46) roam x -16
+\i (00:00:46) roam x -64
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x -80
+\i (00:00:46) roam y 16
+\i (00:00:46) roam x -128
+\i (00:00:46) roam y 48
+\i (00:00:46) roam x -32
+\i (00:00:46) roam y 48
+\i (00:00:46) roam x -80
+\i (00:00:46) roam y 16
+\i (00:00:46) roam x -112
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x -32
+\i (00:00:46) roam y 16
+\i (00:00:46) roam x -64
+\i (00:00:46) roam y 16
+\i (00:00:46) roam x -64
+\i (00:00:46) roam x -48
+\i (00:00:46) roam y -32
+\i (00:00:46) roam x -32
+\i (00:00:46) roam y -32
+\i (00:00:46) roam x -16
+\i (00:00:46) roam y -16
+\i (00:00:47) roam y -16
+\i (00:00:47) roam x 16
+\i (00:00:47) roam y -48
+\i (00:00:47) roam x 16
+\i (00:00:47) roam y -16
+\i (00:00:47) roam x 16
+\i (00:00:47) roam x 32
+\i (00:00:47) roam x 32
+\i (00:00:47) roam x 16
+\i (00:00:47) roam x 32
+\i (00:00:48) roam x 48
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 32
+\i (00:00:48) roam x 16
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 16
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 16
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 32
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 48
+\i (00:00:48) roam x 32
+\i (00:00:48) roam x 16
+\i (00:00:48) roam x 48
+\i (00:00:48) roam y 16
+\i (00:00:48) roam x 16
+\i (00:00:48) roam x 16
+\i (00:00:48) roam x 48
+\i (00:00:48) roam x 64
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 32
+\i (00:00:49) roam x 32
+\i (00:00:49) roam x 32
+\i (00:00:49) roam x 48
+\i (00:00:49) roam y 16
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 32
+\i (00:00:49) roam x 32
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 16
+\i (00:00:49) roam x 16
+\i (00:00:50) roam x 16
+\i (00:00:50) roam end
+\i (00:00:52) pick grid 59.577 70.945
+\t (00:00:52) last pick:  60.000 70.800
+\i (00:00:54) pick grid 58.613 70.881
+\t (00:00:54) last pick:  58.800 70.800
+\i (00:00:54) move 
+\t (00:00:55) last pick:  55.594 69.524
+\t (00:00:55) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:00:55) Pick new location for the element(s).
+\i (00:00:55) pick grid 59.705 60.283
+\t (00:00:55) last pick:  60.000 60.000
+\i (00:00:56) generaledit 
+\i (00:00:57) iangle -90 
+\e (00:00:57) angle command is not allowed in this mode.
+\i (00:00:58) pick grid 62.082 61.182
+\t (00:00:58) last pick:  62.400 61.200
+\i (00:00:59) iangle -90 
+\e (00:00:59) angle command is not allowed in this mode.
+\i (00:01:00) iangle -90 
+\e (00:01:00) angle command is not allowed in this mode.
+\i (00:01:00) iangle -90 
+\e (00:01:00) angle command is not allowed in this mode.
+\i (00:01:01) iangle -90 
+\e (00:01:01) angle command is not allowed in this mode.
+\i (00:01:02) drag_start grid 63.752 61.118
+\i (00:01:02) slide 
+\t (00:01:02) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:01:02) No valid items selected for the current operation, exiting.
+\i (00:01:02) generaledit 
+\i (00:01:02) drag_stop grid 66.835 56.494
+\i (00:01:04) drag_start grid 61.889 61.118
+\i (00:01:04) slide 
+\t (00:01:04) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:01:04) No valid items selected for the current operation, exiting.
+\i (00:01:04) generaledit 
+\i (00:01:04) drag_stop grid 61.247 58.870
+\i (00:01:09) artwork 
+\i (00:01:11) setwindow form.film_control
+\i (00:01:11) FORM film_control load  
+\i (00:01:23) fillin "C:\Users\user\Desktop\vscode_orcad\ex_rlc\allegro\FILM_SETUP.txt"
+   (00:01:23) t
+\i (00:01:25) FORM film_control filmtree  Design 
+\i (00:01:26) FORM film_control filmtree popup 'Display for Visibility' Design 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) pick grid 62.660 54.888
+\t (00:01:26) last pick:  62.400 55.200
+\i (00:01:28) setwindow form.film_control
+\i (00:01:28) FORM film_control cancel  
+\i (00:01:28) setwindow pcb
+\i (00:01:28) generaledit 
+\i (00:01:28) pick grid 62.981 52.190
+\t (00:01:28) last pick:  62.400 51.600
+\i (00:01:30) drag_start grid 61.375 61.504
+\i (00:01:30) move 
+\t (00:01:30) last pick:  60.000 60.000
+\t (00:01:30) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:01:30) Pick new location for the element(s).
+\i (00:01:30) iangle -90 
+\t (00:01:30) last pick:  270.000 0.000
+\i (00:01:31) drag_stop grid 61.311 59.962
+\i (00:01:31) generaledit 
+\i (00:01:34) drag_start grid 61.632 58.356
+\i (00:01:34) move 
+\t (00:01:34) last pick:  61.200 60.000
+\t (00:01:34) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:01:34) Pick new location for the element(s).
+\i (00:01:34) drag_stop grid 62.981 59.577
+\i (00:01:34) generaledit 
+\i (00:01:36) pick grid 63.110 59.063
+\t (00:01:36) last pick:  63.600 58.800
+\i (00:01:37) move 
+\t (00:01:37) last pick:  62.400 60.000
+\t (00:01:37) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:01:37) Pick new location for the element(s).
+\i (00:01:47) pick 5 40 
+\t (00:01:47) last pick:  5.000 40.000
+\i (00:01:47) generaledit 
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 73.964 58.485
+\i (00:01:50) trapsize 642
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 70.497 56.301
+\i (00:01:50) trapsize 1285
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in 10.120 45.926
+\i (00:01:52) trapsize 642
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in 10.506 43.357
+\i (00:01:53) trapsize 321
+\i (00:01:53) zoom out 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom out 10.506 42.908
+\i (00:01:53) trapsize 642
+\i (00:01:57) pick grid 14.616 84.015
+\t (00:01:57) last pick:  14.400 84.000
+\i (00:02:00) move 
+\t (00:02:00) last pick:  12.490 82.300
+\t (00:02:00) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:02:00) Pick new location for the element(s).
+\i (00:02:01) pick grid 21.810 50.744
+\t (00:02:01) last pick:  21.600 50.400
+\i (00:02:01) generaledit 
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 26.306 46.890
+\i (00:02:01) trapsize 321
+\i (00:02:02) pick grid 22.838 51.579
+\t (00:02:02) last pick:  22.800 51.600
+\i (00:02:03) pick grid 25.407 51.194
+\t (00:02:03) last pick:  25.200 51.600
+\i (00:02:06) move 
+\t (00:02:06) last pick:  21.600 50.400
+\t (00:02:06) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:02:06) Pick new location for the element(s).
+\i (00:02:06) iangle -90 
+\t (00:02:06) last pick:  270.000 0.000
+\i (00:02:08) iangle -90 
+\t (00:02:08) last pick:  270.000 0.000
+\i (00:02:08) iangle -90 
+\t (00:02:08) last pick:  270.000 0.000
+\i (00:02:08) pick grid 32.344 46.633
+\t (00:02:08) last pick:  32.400 46.800
+\i (00:02:09) generaledit 
+\i (00:02:11) move 
+\t (00:02:11) last pick:  32.400 46.800
+\t (00:02:11) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:02:11) Pick new location for the element(s).
+\i (00:02:19) pick 95 35 
+\t (00:02:19) last pick:  95.000 35.000
+\i (00:02:19) generaledit 
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 41.143 32.888
+\i (00:02:20) trapsize 642
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 41.144 33.016
+\i (00:02:20) trapsize 1285
+\i (00:02:22) save 
+\i (00:02:23) fillin yes 
+\i (00:02:23) generaledit 
+\i (00:02:38) pick grid 55.081 115.552
+\t (00:02:38) last pick:  55.200 115.200
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 25.535 79.069
+\i (00:02:38) trapsize 642
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 27.719 71.104
+\i (00:02:45) trapsize 321
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 27.720 71.105
+\i (00:02:45) trapsize 642
+\i (00:03:53) cmgr 
+\i (00:03:54) setwindow cmgr
+\i (00:03:54) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:03:54) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:03:54) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:03:54) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:03:54) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:03:54) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:03:54) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:03:54) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:03:55) setwindow pcb
+\i (00:03:55) generaledit 
+\i (00:03:59) setwindow cmgr
+\i (00:03:59) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:00) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:04:02) cm scope Design "CAD4"
+\i (00:04:02) cm expand ( row ( "Object Type" "XNets/Nets" ) )
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 24.893 69.691
+\i (00:04:12) trapsize 1285
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 24.894 60.314
+\i (00:04:12) trapsize 2569
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 98.500 -39.371
+\i (00:04:12) trapsize 2569
+\i (00:04:31) save 
+\i (00:04:32) fillin yes 
+   (00:04:32) Loading consmgr.cxt 
+   (00:04:32) Loading acns_formula.cxt 
+\i (00:04:32) generaledit 
+\i (00:04:33) exit 
+\i (00:04:33) setwindow cmgr
+\i (00:04:33) cm exit
+\t (00:04:33)     Journal end - Thu Aug 01 10:29:24 2019

@@ -1,0 +1,370 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : CAD4.brd                                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Aug 01 11:25:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < DrillDraw >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/DrillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-0.635 99.545)
+           ... using undefined line width of 0.100
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.100
+
+    WARNING: text composed 0 width line found at (10.780 120.182)
+           ... using undefined line width of 0.100
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.100
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00394                                  DARK 
+
+     DrillDraw created with warnings
+
+
+================================================================
+     PROCESSING FILM < MeatlB >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/MeatlB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MeatlB created with warnings
+
+
+================================================================
+     PROCESSING FILM < MetalT >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/MetalT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MetalT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SolderB >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/SolderB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14500                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SolderB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SolderT >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/SolderT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.14500                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     SolderT created with warnings
+
+
+================================================================
+     PROCESSING FILM < skikb >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/skikb.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00799                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+
+     skikb created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkT >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/SilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00799                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+
+     SilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < Design >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/Design.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.000 0.000)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00799                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     Design created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/CAD4/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        DrillDraw created with warnings
+        MeatlB created with warnings
+        MetalT created with warnings
+        SolderB created with warnings
+        SolderT created with warnings
+        skikb created with warnings
+        SilkT created with warnings
+        Design created with warnings
+        BOTTOM created with warnings
+        TOP created with warnings
+
+ ARTWORK had warnings
